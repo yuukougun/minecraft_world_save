@@ -1,0 +1,2 @@
+# minecraft_world_save
+minecraft BEのワールドデータを別フォルダで保存するbatchファイル
